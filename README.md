@@ -1,6 +1,6 @@
 # Welcome to my Github!
 
-A subtitle that describes your project, e.g., research question
+Here I'll be sharing my journey learning Python & R
 
 
 ## Motivation
